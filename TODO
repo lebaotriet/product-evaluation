@@ -1,6 +1,19 @@
-1. Create the sample theme
-2.Create sample project
-3.Blah blach
-4.dadsadsa
-5.dasdsadsa
-6.the new line from lebaotriet
+1.Create the sample template.
+	1.1 Admin template.
+	1.2 User template.
+2.Create sample project on Yii framework.
+3.Integrate template and framework.
+	3.1 Create some init code to test. 
+4.Uploading and share project with team members.
+	4.1 Training GitHub concept for newbie.
+	1.2 Introduce some software for GitHub for Windows user. 
+5.Synthesizing results from survey. 
+6.Analyzing raw data.
+7.Designing use-case model -> class model. 
+8.Implimenting system base on design.
+9.Improve system code and optimize the code.
+10.Pathing the system error and runnning in first version (Alpha version).
+11.Complete system (Beta version) and uploading to host for testing.
+12.Finding out problem and ready to fix it.
+13.Contact to company/author to write review. 
+14.Speed up SEO process.   
