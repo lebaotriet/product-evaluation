@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42949c96-f7d1-41ec-b38e-0f925ea076ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/product-evaluation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="product-evaluation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +25,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/back-end/views/site/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="73" selection-start="79" selection-end="79" vertical-scroll-proportion="0.098092645">
+            <state line="17" column="16" selection-start="515" selection-end="515" vertical-scroll-proportion="0.5613079">
               <folding />
             </state>
           </provider>
@@ -306,7 +299,11 @@
       <created>1359864080774</created>
       <updated>1359864080774</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test add in phpStorm">
+      <created>1359866371334</created>
+      <updated>1359866371334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,7 +393,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/back-end/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="73" selection-start="79" selection-end="79" vertical-scroll-proportion="0.098092645">
+        <state line="17" column="16" selection-start="515" selection-end="515" vertical-scroll-proportion="0.5613079">
           <folding />
         </state>
       </provider>
