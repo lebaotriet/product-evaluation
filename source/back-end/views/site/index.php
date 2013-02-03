@@ -7,8 +7,7 @@ $this->pageTitle=Yii::app()->name;
 ?>
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAA
-
-
+This text from 'beta' branch
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXX
 
